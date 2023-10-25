@@ -1,0 +1,83 @@
+{
+  "$type": "Sungero.Metadata.ModuleMetadata, Sungero.Metadata",
+  "NameGuid": "67b668f0-535f-453f-8f0e-be1f7e280746",
+  "Name": "HelpDesk",
+  "AsyncHandlers": [],
+  "ClientAssemblyName": "DirRX.HelpDesk.Client",
+  "ClientBaseAssemblyName": "DirRX.HelpDesk.ClientBase",
+  "ClientBaseNamespace": "DirRX.HelpDesk.ClientBase",
+  "ClientNamespace": "DirRX.HelpDesk.Client",
+  "Code": "HelpDes",
+  "CompanyCode": "DirRX",
+  "Cover": {
+    "NameGuid": "5806053b-fdde-474a-91a8-1378980b6926",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "e80b0b47-c6a0-4de5-8b07-d7b90187edb2",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "70acaaa4-9dd3-4088-b726-6a82f68d6427",
+      "BackgroundPosition": "Stretch"
+    }
+  },
+  "Dependencies": [
+    {
+      "Id": "13e8b787-7077-4240-89c6-75774e584e2d",
+      "IsSolutionModule": true,
+      "MaxVersion": "",
+      "MinVersion": ""
+    }
+  ],
+  "ExplorerTreeOrder": [
+    {
+      "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "ItemId": "0773148f-0776-46e5-a873-198177ac2ce4",
+      "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "ec4d9014-0978-4fad-903d-c2d8bf91ac2b",
+      "PreviousItemId": "0773148f-0776-46e5-a873-198177ac2ce4"
+    },
+    {
+      "ItemId": "6700150f-0d7f-4dc7-a96e-a6eb8c3c9ccb",
+      "PreviousItemId": "ec4d9014-0978-4fad-903d-c2d8bf91ac2b"
+    },
+    {
+      "ItemId": "44c57605-4dc1-4de5-98a4-6321452154a6",
+      "PreviousItemId": "6700150f-0d7f-4dc7-a96e-a6eb8c3c9ccb"
+>>>>>>> 3f563fa (Добавлен документ Приложение к обращению [Rx])
+    }
+  ],
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "DirRX.HelpDesk",
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "DirRX.HelpDesk",
+  "ResourcesKeys": [],
+  "ServerAssemblyName": "DirRX.HelpDesk.Server",
+  "ServerNamespace": "DirRX.HelpDesk.Server",
+  "SharedAssemblyName": "DirRX.HelpDesk.Shared",
+  "SharedNamespace": "DirRX.HelpDesk.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.0",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "ModuleMetadata",
+      "Number": 6
+    },
+    {
+      "Type": "DomainApi",
+      "Number": 3
+    }
+  ]
+}
