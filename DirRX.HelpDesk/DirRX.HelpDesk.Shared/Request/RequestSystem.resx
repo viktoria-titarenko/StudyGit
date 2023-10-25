@@ -61,7 +61,16 @@
   <data name="Property_Name" xml:space="preserve">
     <value>Name</value>
   </data>
-  <data name="Property_Note" xml:space="preserve">
-    <value>Note</value>
+  <data name="Property_Number" xml:space="preserve">
+    <value>Number</value>
+  </data>
+  <data name="Property_Description" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="Property_CreatedDate" xml:space="preserve">
+    <value>Created Date</value>
+  </data>
+  <data name="Property_Responsible" xml:space="preserve">
+    <value>Responsible</value>
   </data>
 </root>
